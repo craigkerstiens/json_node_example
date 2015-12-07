@@ -1,0 +1,30 @@
+{
+  "name": "massive-json-example",
+  "version": "1.0.0",
+  "description": "An example using massive with JSON",
+  "main": "load_json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/craigkerstiens/massive-json-example.git"
+  },
+  "keywords": [
+    "postgres",
+    "postgresql",
+    "node",
+    "nodejs",
+    "json",
+    "massive"
+  ],
+  "author": "Craig Kerstiens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigkerstiens/massive-json-example/issues"
+  },
+  "homepage": "https://github.com/craigkerstiens/massive-json-example#readme",
+  "dependencies": {
+    "massive": "^2.0.9"
+  }
+}

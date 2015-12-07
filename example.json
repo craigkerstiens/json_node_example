@@ -1,0 +1,28 @@
+{
+  "posts": [{
+    "title": "A Guide to PR for Startups",
+    "link": "http://www.craigkerstiens.com/2015/07/21/An-intro-PR-guide-for-startups/",
+    "category": "Startups",
+    "comments": [{
+      "text": "this is amazing",
+      "user": "johndoe"
+    }, {
+      "text": "would love more on the timing and lead-up process",
+      "user": "janedoe"
+    }]
+  }, {
+    "title": "Upsert Lands in PostgreSQL 9.5 – a First Look",
+    "link": "http://www.craigkerstiens.com/2015/05/08/upsert-lands-in-postgres-9.5/",
+    "category": "Postgres",
+    "comments": [{
+      "text": "So excited to have this in Postgres, its been missing for years",
+      "user": "johndoe"
+    }]
+  },
+  {
+    "title": "Node, Postgres, MassiveJS - a Better Database Experience",
+    "link": "http://www.craigkerstiens.com/2015/11/30/massive-node-postgres-an-overview-and-intro/",
+    "comments": []
+  }
+  ]
+}

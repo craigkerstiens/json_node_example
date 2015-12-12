@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/craigkerstiens/massive-json-example#readme",
   "dependencies": {
+    "express": "^4.13.3",
     "massive": "^2.0.9"
   }
 }
